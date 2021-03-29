@@ -1,10 +1,12 @@
 [
   {
+    "id": 1,
     "title": "Chaos Walking",
     "genre": "Sci-Fi",
     "image": "https://miro.medium.com/max/2800/0*sNwJrO4HlXOfufhu.jpg"
   },
   {
+    "id": 2,
     "title": "Nerve",
     "genre": "Triller",
     "image": "https://images-na.ssl-images-amazon.com/images/I/71gx3%2B1j4JL._AC_SL1080_.jpg"
