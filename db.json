@@ -1,14 +1,110 @@
 [
-  {
-    "id": 1,
-    "title": "Chaos Walking",
-    "genre": "Sci-Fi",
-    "image": "https://miro.medium.com/max/2800/0*sNwJrO4HlXOfufhu.jpg"
-  },
-  {
-    "id": 2,
-    "title": "Nerve",
-    "genre": "Triller",
-    "image": "https://images-na.ssl-images-amazon.com/images/I/71gx3%2B1j4JL._AC_SL1080_.jpg"
-  }
+   {
+      "id":1,
+      "title":"Chaos Walking",
+      "genre":"Sci-Fi",
+      "image":"https://miro.medium.com/max/2800/0*sNwJrO4HlXOfufhu.jpg"
+   },
+   {
+      "id":2,
+      "title":"Nerve",
+      "genre":"Triller",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/71gx3%2B1j4JL._AC_SL1080_.jpg"
+   },
+   {
+      "id":3,
+      "title":"Frozen",
+      "genre":"Children",
+      "image":"https://static.posters.cz/image/750/%D0%BF%D0%BB%D0%B0%D0%BA%D0%B0%D1%82/frozen-teaser-i19238.jpg"
+   },
+   {
+      "id":4,
+      "title":"Rango",
+      "genre":"Children",
+      "image":"https://www.moviepostersetc.com/_staticProxy/content/ff808081163c05b001169d6655243ae9/Rango_movie_poster_one-sheet.jpg"
+   },
+   {
+      "id":5,
+      "title":"Brave",
+      "genre":"Children",
+      "image":"https://www.joblo.com/assets/images/oldsite/posters/images/full/brave-italian-poster.jpg"
+   },
+   {
+      "id":6,
+      "title":"Boh. Rhapsody",
+      "genre":"Musical",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/81fgf%2BfAsBL._AC_SL1500_.jpg"
+   },
+   {
+      "id":7,
+      "title":"Da Vinci Code",
+      "genre":"Mystery",
+      "image":"https://www.joblo.com/assets/images/oldsite/posters/images/full/2006-da_vinci_code-9_thumb.jpg"
+   },
+   {
+      "id":8,
+      "title":"A Star is Born",
+      "genre":"Romance",
+      "image":"https://www.joblo.com/assets/images/oldsite/posters/images/full/star_is_born_xlg_thumb.jpg"
+   },
+   {
+      "id":9,
+      "title":"Black Panther",
+      "genre":"Action",
+      "image":"https://www.joblo.com/assets/images/oldsite/posters/images/full/pantherposterhandsmain.jpg"
+   },
+   {
+      "id":10,
+      "title":"Ghost",
+      "genre":"Fantasy",
+      "image":"https://upload.wikimedia.org/wikipedia/en/b/ba/Ghost_Film_Poster.jpg"
+   },
+   {
+      "id":11,
+      "title":"Okay Google",
+      "genre":"Comedy",
+      "image":"https://cdn.cinematerial.com/p/297x/7aiqzhu7/okay-google-movie-poster-md.jpg?v=1598078586"
+   },
+   {
+      "id":12,
+      "title":"Real Steel",
+      "genre":"Action",
+      "image":"https://www.joblo.com/assets/images/oldsite/posters/images/full/real-steel-poster-final_thumb.jpg"
+   },
+   {
+      "id":13,
+      "title":"Malang",
+      "genre":"Crime",
+      "image":"https://i.pinimg.com/474x/34/3c/39/343c39fcd4f99fd1fea7c6d8f760942a.jpg"
+   },
+   {
+      "id":14,
+      "title":"Iron Man",
+      "genre":"Adventure",
+      "image":"https://www.joblo.com/assets/images/oldsite/posters/images/full/2008-iron_man-3.jpg"
+   },
+   {
+      "id":15,
+      "title":"Empire Strikes Back",
+      "genre":"Fantasy",
+      "image":"https://image.tmdb.org/t/p/original/7BuH8itoSrLExs2YZSsM01Qk2no.jpg"
+   },
+   {
+      "id":16,
+      "title":"Alien",
+      "genre":"Horror",
+      "image":"https://www.joblo.com/assets/images/oldsite/posters/images/full/alien-1980-poster1.jpg"
+   },
+   {
+      "id":17,
+      "title":"Joker",
+      "genre":"Crime",
+      "image":"https://www.joblo.com/assets/images/joblo/posters/2019/08/joker-final-poster_thumb.jpg"
+   },
+   {
+      "id":18,
+      "title":"XxX",
+      "genre":"Action",
+      "image":"https://images-na.ssl-images-amazon.com/images/I/41hgYFKqSzL._AC_.jpg"
+   }
 ]
